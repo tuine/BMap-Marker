@@ -3,7 +3,7 @@
 百度地图多点标注，添加数据源，可选择可搜索  
 http://git.tuine.me/BMap-Marker 
 
-**搜索组件→_→**[search-select](https://github.com/tuine/search-select)
+**搜索组件→_→[search-select](https://github.com/tuine/search-select)**
 
 ---
 #功能介绍
