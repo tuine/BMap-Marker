@@ -1,6 +1,7 @@
 # BMap-Marker
-百度地图多点标注，添加数据源，可选择可搜索 http://git.tuine.me/BMap-Marker
-
+百度地图多点标注，添加数据源，可选择可搜索  
+http://git.tuine.me/BMap-Marker
+---
 #功能介绍
 * 自定义内容
 * 自定义标注图标
@@ -33,6 +34,6 @@ var all_data = [[{"title":{"text":"北京北站","className":"title"},"point":{"
                 }
             }, all_data);
 ```
-
-#Other
+---
+#Other  
 简简单单临时项目需求,没太优化
